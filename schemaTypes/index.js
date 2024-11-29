@@ -1,3 +1,3 @@
-import { joaoType } from "./joaoType";
+import { cmsType } from "./cmsType";
 
-export const schemaTypes = [joaoType]
+export const schemaTypes = [cmsType]

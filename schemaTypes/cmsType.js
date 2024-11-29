@@ -1,6 +1,6 @@
 import {defineField, defineType} from 'sanity'
 
-export const joaoType = defineType({
+export const cmsType = defineType({
   name: 'usuarios',
   title: 'Usuarios',
   type: 'document',
